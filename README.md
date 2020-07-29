@@ -1,11 +1,13 @@
-<h1 align="center">⚛️</h1>
+<p align="center">
+<img src="https://lh3.googleusercontent.com/proxy/ppyaL1To3J5nUMb3fAr7iRV2YnNB05aN53wiVpFZcR5wa-qyZCXw2I4cp5rWQcgKckoqnmAx" />
+</p>
 <h2 align="center">AliOzzkan React Framework</h2>
-<p align="center">Framework that I created using React, Redux, Axios, Moment and libraries that I made.
+<p align="center">Framework that I created using React, Redux and libraries that I made.
 </p>
 <br/>
 <br/>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/aliozzkan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="Ali87726570" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ali-%C3%B6zkan-8b9915154/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@aliozzkan" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<h3 align="center">Where To Find Me</h3>
+<p align="center"><a href="https://github.com/aliozzkan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UCTIvRvp9uj-lCyy9mlWBadg" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"" /></a> <a href="https://www.linkedin.com/in/ali-%C3%B6zkan-8b9915154/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="Ali87726570" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://medium.com/@aliozzkan" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 </hr>
-<p>Ali Özkan <i>- Full Stack Developer</i></p>
+<p align="center">Ali Özkan <i>- Full Stack Developer</i></p>
