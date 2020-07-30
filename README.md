@@ -4,6 +4,8 @@
 <h2 align="center">AliOzzkan React Framework</h2>
 <p align="center">Framework that I created using React, Redux and libraries that I made.
 </p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/aliozzkan/aliozzkan-react-framework?style=social" alt="Stars"/></p>
 <br/>
 <br/>
 <h3 align="center">Where To Find Me</h3>
