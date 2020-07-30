@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://lh3.googleusercontent.com/proxy/ppyaL1To3J5nUMb3fAr7iRV2YnNB05aN53wiVpFZcR5wa-qyZCXw2I4cp5rWQcgKckoqnmAx" />
+<img src="src/logo.png" width="300" />
 </p>
 <h2 align="center">AliOzzkan React Framework</h2>
 <p align="center">Framework that I created using React, Redux and libraries that I made.
